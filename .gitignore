@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (generated analysis files)
+outputs/*.md
+outputs/*.txt
+
+# Uploaded files (temporary)
+data/financial_document_*.pdf
+
+# Distribution
+build/
+dist/
+*.egg-info/
