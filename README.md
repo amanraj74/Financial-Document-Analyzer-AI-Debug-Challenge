@@ -28,7 +28,7 @@ An AI-powered financial document analysis system built with **CrewAI**, **FastAP
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/amanraj74/Financial-Document-Analyzer-AI-Debug-Challenge
 cd financial-document-analyzer
 
 # 2. Create virtual environment
